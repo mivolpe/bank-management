@@ -1,0 +1,19 @@
+
+.form{
+    alignItems: 'center';
+    justifyContent: 'center';
+    margin-top: 200px;
+    margin-left: 42%;
+
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+}
+
+.button{
+    width: 100px;
+    margin-top: 10px;
+}
+

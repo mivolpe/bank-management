@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cae7902-a576-411a-92c6-5eac0c911a68": {
+      "ProjectGuid": "5cae7902-a576-411a-92c6-5eac0c911a68",
+      "DisplayName": "Bank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
